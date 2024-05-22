@@ -159,7 +159,11 @@
 
 ## Startup Events
 ### Demo Your Project
-- TBU
+| Name            | Hosted By                                      | Date                        | Link 
+|-----------------|----------------------------------|-----------------------------------|-------------------
+| Generative NYC | Lightspeed | June 4, 2024 | [Link](https://generativenyc6424.splashthat.com/) 
+| AI Builders Meetup  | Betaworks | June 5, 2024 | [Link](https://www.betaworks.com/event/ai-builders-meetup-w-live-demos) 
+
 
 ### Upcoming Events
 - [NY Startup Week](link)
