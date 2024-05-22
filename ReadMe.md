@@ -63,6 +63,7 @@
 |-----------------|--------------------------------------------------|-----------------------------------|-------------------|------------------|
 | [Program by Thomas Schulz](https://x.com/thomasschulzz/status/1793043440382460239) | Pioneer-style competition, but in SF | - Objective is to leave with a promising project, progress, and/or a potential co-founder | [Start Date](link) | [End Date](link) |
 | Nvidia accelerator | TBU | TBU | TBU | TBU |
+| ZFellows | [Link](https://www.zfellows.com/#faqs) | TBU | TBU | TBU |
 
 ## Growing Your Project / Product
 ### General Gyaan
@@ -71,6 +72,7 @@
 - **Video playlist by Sahil Lavingia on how to grow your project** - [Coming up with an Idea, Iterating on an idea, Prototyping, MVP, Elevator Pitch and Growing](https://youtube.com/playlist?list=PL_DfN-mKCGNsj-pn7PtnD-N3Ab4lAtywf&si=-MZ2PXpkRAm9vfzC)
 - **Playbook by @davidpark96 of how to bootstrap + scale your SaaS in 2024** - [Link](https://x.com/Davidjpark96/status/1789773192435060737)
 - Comparing Hacker News, X, Reddit and Product Hunt - anecdote [Link](https://x.com/tomasz_fm/status/1784239908812390719)
+- Dev tool marketing for early-stage startups – what we’ve learned by PostHog [Link](https://posthog.com/founders/dev-marketing-for-startups)
 
 ### Startups Looking to Partner
 - Remember credits and partnerships are only a mail away
@@ -88,14 +90,17 @@
 
 ### Web Dev - Tools
 - [Tool that generates a react pricing page using Shadcn UI, Radix UI and/or Tailwind CSS that you can plug into your project. (by shipixen.com)](https://shipixen.com/shadcn-pricing-page)
+- Tool to create a custom color scale from a hex code. [Link](https://uicolors.app/create)
 
 ### Web Dev - Middleware
 - Guide to integrate Stripe for payment processing into NextJs applications. [Link](https://vercel.com/templates/next.js/subscription-starter)
 - **Hookdeck** (Paid with a decent free tier) - allows you to authenticate, delay, filter, queue, throttle, and retry asynchronous HTTP requests (e.g., webhooks) made to a Vercel application. (For Stripe, Shopify, Twilio) [Link](https://github.com/hookdeck/hookdeck-vercel)
+- **Vercel AI SDK Implementations**
+  - [mirula/morphic](https://github.com/miurla/morphic)
+  - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
 
 
-### Web Dev - Dev Tools
-- [Tool to generate a pricing page for your app.](https://www.producthunt.com/products/pricing-page-generator)
+### Web Dev - Dev Tools / Frameworks
 - [Million Lint 1.0 - VSCode extension that automatically fixes slow React code for you](https://x.com/aidenybai/status/1792934092629017029)
 - **Extension** is a plug-and-play, zero-config, cross-browser extension development tool for browser extensions with built-in support for TypeScript, WebAssembly, React, and modern JavaScript. [Link](https://extension.js.org/)
 
@@ -115,19 +120,28 @@
 - **Cohere's projects**
   - [Cohere Toolkit](https://github.com/cohere-ai/cohere-toolkit)
   - [Python sandbox for LLM data agents](https://github.com/cohere-ai/cohere-terrarium)
-
+- Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system. [Continue](https://github.com/continuedev/continue?utm_source=tldrwebdev)
+  - Can also use base structure to build your own IDE extension. 
+ 
 ### Low Code / No Code DevOps
 - Repo to host websites on top of a notion page for free [Link](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
 - **Dokploy** - Open-source Vercel and Heroku alternative (alt. Coolify) [Link](https://dokploy.com/)
 
-### AI Engg - Training Your Own Models
+### AI Engg - Applied
 - How cursor trained a 70b model that achieves >1000 tokens/s using a custom inference technique called speculative edits[Link](https://cursor.sh/blog/instant-apply)
 - How PayPal uses Cosmos.Al to deploy AI/ML models and solutions. [Link](https://medium.com/paypal-tech/scaling-paypals-ai-capabilities-with-paypal-cosmos-ai-platform-e67a48e04691)
 - Guide to finetuning embedding models. [Link](https://x.com/jxnlco/status/1784942532176072779)
 - Thread by @omarsar0 the DAIR.AI & Papers with Code guy most promising or exciting LLM tools, libraries, or frameworks today (Crowdsource) [Link](https://x.com/omarsar0/status/1783889516714922298) 
+- Thomas Wolf's (HuggingFace) guide to building LLMs in 2024. [Link](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/mobilepresent?slide=id.p)
+- Making agentic workflows more reliable. [Link](https://www.rainforestqa.com/blog/building-reliable-systems-out-of-unreliable-agents)
+
+
+### AI - Research / Guides
+- Ilya's 30u30 Papers List [Link](https://arc.net/folder/16E62395-8541-4920-B518-09BD5EEAD2A9)
 
 ## Resources to Get Credits
-### TBU
+### Repo that lists software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
+- [Link](https://github.com/ripienaar/free-for-dev?tab=readme-ov-file#ide-and-code-editing)
 
 
 ## Startup Events
@@ -142,10 +156,18 @@
 ### Upcoming Events
 - [NY Startup Week](link)
 
+### Sources
+- Luma
+- The Knowledge Shop (NYC) [Link](https://www.theknowledge.shop/events)
+- Gary's Guide (NYC & Bay Area) [Link](https://www.garysguide.com/)
+
 ## Hackathons
 ### Upcoming Hackathons
 - [Google Gemini Hackathon](https://ai.google.dev/competition)
 - [Edge DB Hackathon](https://hackathon.edgedb.com/#rules)
+
+### Sources
+- [ML Contests](https://mlcontests.com)
 
 
 <!-- ### Introduction
