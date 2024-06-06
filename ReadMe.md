@@ -148,13 +148,8 @@
 ### Demo Your Project
 | Name            | Hosted By                                      | Date                        | Link 
 |-----------------|----------------------------------|-----------------------------------|-------------------
-| Generative NYC | Lightspeed | June 4, 2024 | [Link](https://generativenyc6424.splashthat.com/) 
-| AI Pitch NY  | AWS x NVIDIA | June 4, 2024 | [Link](https://lu.ma/AWSxNVIDIAPitch) 
-| AI Builders Meetup  | Betaworks | June 5, 2024 | [Link](https://www.betaworks.com/event/ai-builders-meetup-w-live-demos) 
-
 
 ### Upcoming Events
-- [NY Startup Week](link)
 
 ### Sources
 - Luma
@@ -164,7 +159,6 @@
 ## Hackathons
 ### Upcoming Hackathons
 - [Google Gemini Hackathon](https://ai.google.dev/competition)
-- [Edge DB Hackathon](https://hackathon.edgedb.com/#rules)
 
 ### Sources
 - [ML Contests](https://mlcontests.com)
